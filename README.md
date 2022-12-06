@@ -10,7 +10,7 @@
   9. [Email](#Email)
   
 # Quizmaster
-Deployed application is live at: https://polar-island-54317.herokuapp.com/ on Heroku
+Deployed application is live at: https://yogs0ddhoth-quizmaster.herokuapp.com/ on Heroku
 ## Mockup 
 <img src="./assets/../client/src/assets/images/mockup.png" alt="home, search, and deck pages of the app">
 
